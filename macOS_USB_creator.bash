@@ -11,4 +11,4 @@
 #You can also choose a different name. If so, you're gonna have to modify the command accordingly.
 
 
-sudo /Applications/Install\ macOS\ High\ Sierra.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume --nointeraction --applicationpath /Applications/Install\ macOS\ High\ Sierra.app
+sudo /Applications/Install\ macOS\ Mojave.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume --nointeraction --applicationpath /Applications/Install\ macOS\ High\ Sierra.app
